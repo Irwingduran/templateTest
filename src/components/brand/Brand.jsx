@@ -1,5 +1,5 @@
 import React from 'react';
-import { google, slack, atlassian, dropbox, shopify } from './imports';
+import { google, dropbox, shopify } from './imports';
 import './brand.css';
 
 const Brand = () => (
@@ -8,10 +8,10 @@ const Brand = () => (
       <img src={google} />
     </div>
     <div>
-      <img src={slack} />
+      <img src={shopify} />
     </div>
     <div>
-      <img src={atlassian} />
+      <img src={google} />
     </div>
     <div>
       <img src={dropbox} />

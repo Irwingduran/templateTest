@@ -5,16 +5,16 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="¿Qué es RD PLUS+®?" text="RD PLUS+ es una fuerte solución en software que permite a usuarios; empleados, ejecutivos, vendedores, etc, poder trabajar a distancia desde casa o DESDE donde USTED LO NECESITE para acceder a sus Aplicaciones o Escritorios Windows® (VDI) que residen en los servidores centrales de su organización o se encuentren hospedados en servidores virtuales como AWS, AZURE, etc." />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p>Explore the Library</p>
+      <h1 className="gradient__text">Con RD PLUS + el personal de su organización o fuera de ella, podrá acceder de forma controlada</h1>
+      <p>Conexiones seguras a distancia</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Acceso Controlado" text="Permite ingresar con permisos definidos." />
+      <Feature title="Eficiencia Remota" text="Trabaje de manera segura y rápida desde cualquier lugar." />
+      <Feature title="Flexibilidad de Conexión" text="Utilice el cliente incorporado o genere uno propio." />
     </div>
   </div>
 );
